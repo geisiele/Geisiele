@@ -1,6 +1,6 @@
 ### Hi, Geisiele here 👋
 
-💥 I'm currently working at CI&T!
+📍 I'm currently working at CI&T!
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geisiele-antunes-medeiros-de-lima/)
 
